@@ -24,8 +24,6 @@
 <!-- START OPEN SOURCE LIST -->
 <!-- Replace planned bullets with real PRs, issues, reviews, or merged links as they land. -->
 - 🟦 **OWNER/REPO** — PR #NUMBER: [TITLE](LINK)
-- 🟦 **OWNER/REPO** — Issue #NUMBER: [TITLE](LINK)
-- 🟨 **OWNER/REPO** — Next: NEXT_USEFUL_PACKET
 <!-- END OPEN SOURCE LIST -->
 
 📌 Target: **1 public, PR-quality AI-infra packet per week**  
