@@ -33,10 +33,10 @@
 ---
 
 ## 🧪 AI Lab Projects
-- 🧩 **PROJECT_OR_REPO_NAME** — WHAT_IT_PROVES
-- 🚀 **PROJECT_OR_REPO_NAME** — WHAT_IT_PROVES
-- 🔎 **PROJECT_OR_REPO_NAME** — WHAT_IT_PROVES
-- 🧠 **PROJECT_OR_REPO_NAME** — WHAT_IT_PROVES
+- 🧩  
+- 🚀  
+- 🔎  
+- 🧠  
 
 ---
 
