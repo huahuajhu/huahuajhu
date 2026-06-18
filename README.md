@@ -64,10 +64,10 @@ Uncomment this after the profile has stronger public signal from pinned repos an
 -->
 
 ## ⚡ What Sets Me Apart
-- 🚀 DIFFERENTIATOR_1
-- 🔍 DIFFERENTIATOR_2
-- 🧩 DIFFERENTIATOR_3
-- 📈 DIFFERENTIATOR_4
+- 🚀  
+- 🔍  
+- 🧩  
+- 📈  
 
 ---
 
