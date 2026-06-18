@@ -26,9 +26,9 @@
 - 🟦 **NVIDIA-NeMo/Automodel** — WIP PR: [single-pass consolidated SafeTensors export for Databricks/Unity Catalog](https://github.com/NVIDIA-NeMo/Automodel/issues/1092). Branch prepared with DCO sign-off, tests passing, and Databricks docs updated.
 <!-- END OPEN SOURCE LIST -->
 
-📌 Target: NeMo AutoModel checkpointing
-🔍 Focus: distributed training infrastructure, SafeTensors consolidation, Databricks compatibility
-✅ Style: issue-first contribution, focused patch, regression tests, documentation update
+- 📌 Target: NeMo AutoModel checkpointing
+- 🔍 Focus: distributed training infrastructure, SafeTensors consolidation, Databricks compatibility
+- ✅ Style: issue-first contribution, focused patch, regression tests, documentation update
 
 ---
 
