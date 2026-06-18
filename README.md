@@ -26,9 +26,9 @@
 - 🟦 **OWNER/REPO** — PR #NUMBER: [TITLE](LINK)
 <!-- END OPEN SOURCE LIST -->
 
-📌 Target: **1 public, PR-quality AI-infra packet per week**  
-🔍 Focus: **BACKEND_RELIABILITY_TESTING_DEVELOPER_TOOLING_AI_INFRASTRUCTURE**  
-✅ Style: **SMALL_USEFUL_VALIDATED_SOURCE_BACKED_CONTRIBUTIONS**
+📌 Target:  
+🔍 Focus: 
+✅ Style:  
 
 ---
 
