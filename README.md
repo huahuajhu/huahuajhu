@@ -23,12 +23,13 @@
 
 <!-- START OPEN SOURCE LIST -->
 <!-- Replace planned bullets with real PRs, issues, reviews, or merged links as they land. -->
-- 🟦 **NVIDIA-NeMo/Automodel** — WIP PR: [single-pass consolidated SafeTensors export for Databricks/Unity Catalog](https://github.com/NVIDIA-NeMo/Automodel/issues/1092). Branch prepared with DCO sign-off, tests passing, and Databricks docs updated.
+- 🟦 **NVIDIA-NeMo/Automodel** — Open PR [#2627](https://github.com/NVIDIA-NeMo/Automodel/pull/2627): implements safer consolidated SafeTensors shard writes for Databricks/Unity Catalog workflows, with regression coverage and documentation updates.
+- 🟪 **IBM/mcp-context-forge** — Open PR [#5329](https://github.com/IBM/mcp-context-forge/pull/5329): standardizes root-path-aware admin and SSO redirects for issue [#1588](https://github.com/IBM/mcp-context-forge/issues/1588), routes security middleware through the shared root-path resolver, hardens mocked-settings fallback handling, and adds focused admin, SSO, security-header, and path utility tests.
 <!-- END OPEN SOURCE LIST -->
 
-- 📌 Target: NeMo AutoModel checkpointing
-- 🔍 Focus: distributed training infrastructure, SafeTensors consolidation, Databricks compatibility
-- ✅ Style: issue-first contribution, focused patch, regression tests, documentation update
+- 📌 Current targets: NeMo AutoModel checkpointing; IBM ContextForge MCP gateway routing
+- 🔍 Focus: LLM infrastructure, SafeTensors consolidation, MCP gateway path handling, security middleware
+- ✅ Style: issue-first contribution, focused patch, regression tests, reviewer-feedback iteration, DCO sign-off
 
 ---
 
