@@ -75,8 +75,6 @@ Uncomment this after the profile has stronger public signal from pinned repos an
 
 ## 📫 Let's Connect
 - 💻 GitHub: [github.com/huahuajhu](https://github.com/huahuajhu)
-- 💼 LinkedIn: add link
-- 🌐 Portfolio / notes: add link
 - 🤝 Open to **AI systems, GenAI platform, ML infrastructure, inference/eval tooling, and open-source collaboration**
 
 ---
