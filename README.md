@@ -25,10 +25,11 @@
 <!-- Replace planned bullets with real PRs, issues, reviews, or merged links as they land. -->
 - 🟦 **NVIDIA-NeMo/Automodel** — Open PR [#2627](https://github.com/NVIDIA-NeMo/Automodel/pull/2627): implements safer consolidated SafeTensors shard writes for Databricks/Unity Catalog workflows, with regression coverage and documentation updates.
 - 🟪 **IBM/mcp-context-forge** — Open PR [#5329](https://github.com/IBM/mcp-context-forge/pull/5329): standardizes root-path-aware admin and SSO redirects for issue [#1588](https://github.com/IBM/mcp-context-forge/issues/1588), routes security middleware through the shared root-path resolver, hardens mocked-settings fallback handling, and adds focused admin, SSO, security-header, and path utility tests.
+- 🟦 **microsoft/hve-core** — Review-ready PR [#2096](https://github.com/microsoft/hve-core/pull/2096): updates the Agent Systems Catalog after the `architecture-diagrams` capability moved from a dedicated agent to a reusable skill, with Copilot review feedback addressed and maintainer review pending.
 <!-- END OPEN SOURCE LIST -->
 
-- 📌 Current targets: NeMo AutoModel checkpointing; IBM ContextForge MCP gateway routing
-- 🔍 Focus: LLM infrastructure, SafeTensors consolidation, MCP gateway path handling, security middleware
+- 📌 Current targets: NeMo AutoModel checkpointing; IBM ContextForge MCP gateway routing; Microsoft HVE Core agent documentation
+- 🔍 Focus: LLM infrastructure, SafeTensors consolidation, MCP gateway path handling, security middleware, agent workflow documentation
 - ✅ Style: issue-first contribution, focused patch, regression tests, reviewer-feedback iteration, DCO sign-off
 
 ---
