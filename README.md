@@ -36,9 +36,9 @@
 
 ## 🧪 AI Lab Projects
 - 🧩 **[Agentic Contribution Kit](https://github.com/huahuajhu/agentic-contribution-kit)** — portable Markdown primitives for issue triage, repo loading, PR packets, review loops, and evidence ledgers
-- 🚀 **AI Lab Open Source Track** — weekly contribution loop across AI infrastructure, agent tooling, and MCP/platform repositories
-- 🔎 **Enterprise Support RAG Agent** — retrieval, filters, evals, tracing, abstention, latency, and cost records
-- 🧠 **Tiny LLM Lab** — LLM internals from tokenization to attention and training
+- 🚧 **Project slot 2** — placeholder for the next public AI lab project
+- 🚧 **Project slot 3** — placeholder for the next public AI lab project
+- 🚧 **Project slot 4** — placeholder for the next public AI lab project
 
 ---
 
