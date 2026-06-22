@@ -76,13 +76,3 @@ Uncomment this after the profile has stronger public signal from pinned repos an
 ## 📫 Let's Connect
 - 💻 GitHub: [github.com/huahuajhu](https://github.com/huahuajhu)
 - 🤝 Open to **AI systems, GenAI platform, ML infrastructure, inference/eval tooling, and open-source collaboration**
-
----
-
-## ⚡ Current Goal
-🎯 Building public AI-infra evidence through real PRs, then turning the workflow into a reusable Agentic Contribution Kit.
-
----
-
-## 💡 Fun Fact
-I am treating weekly open-source contribution as both skill training and product discovery for better AI-agent workflows.
