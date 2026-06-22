@@ -5,18 +5,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&lines=AI+Systems+Builder;LLM+Infrastructure;Open+Source+Contributor;Agent+and+Eval+Platforms" alt="Typing headline" />
 </p>
 
-<h3 align="center">SHORT_AI_SYSTEMS_HEADLINE</h3>
+<h3 align="center">AI systems builder focused on LLM infrastructure, agent/eval platforms, and open-source contribution discipline</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=huahuajhu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## 🚀 About Me
-- 🧠 I build  
-- ⚙️ Strong focus on 
-- 🌱 Currently building a weekly open-source contribution track across 
-- 🤝 Contributing toward 
-- 💡 Interested in  
+- 🧠 I build **AI systems** across LLM infrastructure, retrieval, agents, evals, and backend platforms
+- ⚙️ Strong focus on **production GenAI systems, AI infrastructure reliability, and developer tooling**
+- 🌱 Currently building a weekly open-source contribution track across **NVIDIA NeMo, MCP/agent infrastructure, Microsoft agent tooling, vLLM, PyTorch, and LangChain/LangGraph**
+- 🤝 Contributing toward **source-backed, test-backed, maintainer-friendly open-source AI infrastructure**
+- 💡 Developing **Agentic Contribution Kit**, a portable method for turning GitHub issues into responsible AI-agent-assisted PR packets
 ---
 
 ## 🌟 Open Source Contributions
@@ -35,19 +35,19 @@
 ---
 
 ## 🧪 AI Lab Projects
-- 🧩  
-- 🚀  
-- 🔎  
-- 🧠  
+- 🧩 **[Agentic Contribution Kit](https://github.com/huahuajhu/agentic-contribution-kit)** — portable Markdown primitives for issue triage, repo loading, PR packets, review loops, and evidence ledgers
+- 🚀 **AI Lab Open Source Track** — weekly contribution loop across AI infrastructure, agent tooling, and MCP/platform repositories
+- 🔎 **Enterprise Support RAG Agent** — retrieval, filters, evals, tracing, abstention, latency, and cost records
+- 🧠 **Tiny LLM Lab** — LLM internals from tokenization to attention and training
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: 
-- 🤖 AI systems:  
-- 🔎 Retrieval and evals:  
-- 🌐 Serving and platform:  
-- ✅ Quality:  
+- 💻 Languages: **Python, SQL, JavaScript/TypeScript**
+- 🤖 AI systems: **PyTorch, vLLM, Transformers, LangChain, LangGraph, MCP**
+- 🔎 Retrieval and evals: **RAG pipelines, vector search, metadata filters, eval sets, tracing**
+- 🌐 Serving and platform: **FastAPI, Docker, cloud deployment, observability, latency/cost tracking**
+- ✅ Quality: **pytest, source-backed reviews, regression tests, PR validation, CI-aware development**
 
 ---
 
@@ -66,23 +66,25 @@ Uncomment this after the profile has stronger public signal from pinned repos an
 -->
 
 ## ⚡ What Sets Me Apart
-- 🚀  
-- 🔍  
-- 🧩  
-- 📈  
+- 🚀 I turn AI-agent development into **reviewable engineering packets**, not just generated patches
+- 🔍 I like source reading, duplicate checks, validation, and reviewer-feedback loops as much as implementation
+- 🧩 I combine **GenAI product experience, backend/platform engineering, and ML systems learning**
+- 📈 I am building public proof gradually through **small, useful, validated open-source contributions**
 
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn:  
-- 🌐 Portfolio / notes:  
-- 🤝 Open to 
+- 💻 GitHub: [github.com/huahuajhu](https://github.com/huahuajhu)
+- 💼 LinkedIn: add link
+- 🌐 Portfolio / notes: add link
+- 🤝 Open to **AI systems, GenAI platform, ML infrastructure, inference/eval tooling, and open-source collaboration**
 
 ---
 
 ## ⚡ Current Goal
-🎯 SHORT_CLOSING_LINE
+🎯 Building public AI-infra evidence through real PRs, then turning the workflow into a reusable Agentic Contribution Kit.
 
 ---
 
 ## 💡 Fun Fact
+I am treating weekly open-source contribution as both skill training and product discovery for better AI-agent workflows.
