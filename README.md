@@ -35,7 +35,7 @@
 ---
 
 ## 🧪 AI Lab Projects
-- 🧩 **[Agentic Contribution Kit](https://github.com/huahuajhu/agentic-contribution-kit)** — portable Markdown primitives for issue triage, repo loading, PR packets, review loops, and evidence ledgers
+- 🧩 **[Agentic Contribution Kit](https://github.com/huahuajhu/agentic-contribution-kit)** — AI-infra contribution intelligence for LLM systems: repo knowledge spines, paper-to-repo hypotheses, eval gates, reward loops, and PR packets
 - 🚧 **Project slot 2** — placeholder for the next public AI lab project
 - 🚧 **Project slot 3** — placeholder for the next public AI lab project
 - 🚧 **Project slot 4** — placeholder for the next public AI lab project
