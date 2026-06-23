@@ -23,6 +23,7 @@
 
 <!-- START OPEN SOURCE LIST -->
 <!-- Replace planned bullets with real PRs, issues, reviews, or merged links as they land. -->
+- 🟦 **NVIDIA-NeMo/Automodel** — Draft PR [#2730](https://github.com/NVIDIA-NeMo/Automodel/pull/2730) for issue [#533](https://github.com/NVIDIA-NeMo/Automodel/issues/533): adds a DP-aware `StatefulDataLoader` wrapper so checkpoint resume can reshard dataloader progress when data-parallel world size changes, with focused CPU unit coverage for DP scale-up, scale-down, same-DP restore, Megatron batch samplers, and checkpointer rank-state loading.
 - 🟦 **NVIDIA-NeMo/Automodel** — Open PR [#2627](https://github.com/NVIDIA-NeMo/Automodel/pull/2627): implements safer consolidated SafeTensors shard writes for Databricks/Unity Catalog workflows, with regression coverage and documentation updates.
 - 🟪 **IBM/mcp-context-forge** — Open PR [#5329](https://github.com/IBM/mcp-context-forge/pull/5329): standardizes root-path-aware admin and SSO redirects for issue [#1588](https://github.com/IBM/mcp-context-forge/issues/1588), routes security middleware through the shared root-path resolver, hardens mocked-settings fallback handling, and adds focused admin, SSO, security-header, and path utility tests.
 - 🟦 **microsoft/hve-core** — Review-ready PR [#2096](https://github.com/microsoft/hve-core/pull/2096): updates the Agent Systems Catalog after the `architecture-diagrams` capability moved from a dedicated agent to a reusable skill, with Copilot review feedback addressed and maintainer review pending.
